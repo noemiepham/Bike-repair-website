@@ -3,10 +3,14 @@ font-family: 'Playfair Display', serif;
 font-family: 'Roboto', sans-serif; */
 html {
 /*      height: 100%; */
+background-image: linear-gradient(#FC5E55, #FA4083 );
 }
 
 body {
-     background-image: linear-gradient(#FC5E55, #FA4083 );
+     background-image: url(../images/image-lion-background.png);
+     background-repeat: no-repeat;
+     background-position: top center;
+
      color: white;
      font-family: 'Roboto', sans-serif;
      font-size: 1.125rem; /* 16px */
@@ -142,4 +146,28 @@ a.mybutton {
 .tbox p:last-of-type {
      font-size: 0.8rem;
      padding-left: 30px;
+}
+/* main 2 */
+
+.main2 {
+     min-height: 300px;
+     padding-top: 50px;
+}
+
+/* form */
+
+.inputwaraper {
+     margin-bottom: 20px;
+}
+input[type=text], 
+input[type=email], textarea 
+ {
+     margin-bottom: 20px;
+     padding: 12px 20px;
+     width: 100%;
+     font-family:  'Roboto', sans-serif; 
+}
+
+form {
+     margin: 40px 0px;
 }

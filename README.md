@@ -11,4 +11,5 @@ This website is just using HTML5 and CSS3 to review my knowledge.
 ## The display Property
 ## Pseudo Class Selectors
 
-![enter image description here](https://i.ibb.co/0stZ283/Mockup-Example-Project-2-Homepage.jpg)
+![Homepage Mockup](https://i.ibb.co/0stZ283/Mockup-Example-Project-2-Homepage.jpg)
+

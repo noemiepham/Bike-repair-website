@@ -8,4 +8,4 @@ This website is just using HTML5 and CSS3 to review my knowledge.
 ## The display Property
 ## Pseudo Class Selectors
 
-![Mockup](../images/image-background-card3.jpg)
+![Mockup Home Page](https://previews.dropbox.com/p/thumb/ACGLLSH--UM1rzQ-zvrPhhF98qvALTfbhJpvLTotwNm_Dxs6l86lh-oZrDsRDBM9ztgw2zR_Okp5lbMy4spmsvB6yOmL7T-vSaxDN3jGZ8rwefrP7R3xujlKnNPn6QY-C27tBrsfaK9wm3LXq5NG0aLU8GIOMtUMGq305QItZmHFiytW7ECoXrS-DoTvmHH6lJq2l3q9LYRROGnYAWA8gOEiNS6pFoi9e647s37TapfcSFrlGtY6gjZA_61y20FC-oPBH9oY28KsfQs7C9he7CGlemu0lUzut_9v5bnx7xlJwbyosnvmP3c31hhy3gjn_zYKmoW6bVZ1N3h-loWQnjgH/p.jpeg)

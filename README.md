@@ -6,3 +6,6 @@ This website is just using HTML5 and CSS3 to review my knowledge.
 ## How to make a full background gradient on a website CSS
 ## What is the difference between PX & EM & REM font sizes
 ## The display Property
+## Pseudo Class Selectors
+
+![Uploading Mockup Example - Project 2 Homepage.jpg…]()

@@ -8,5 +8,4 @@ This website is just using HTML5 and CSS3 to review my knowledge.
 ## The display Property
 ## Pseudo Class Selectors
 
-![Uploading Mockup Example - Project 2 Homepage.jpg…]()
-![My Image](../images/image-background-card1.jpg)
+![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://www.dropbox.com/scl/fi/zbt8fpjblpw2wn3mg2flv/Mockup-Example-Project-2-Contact.jpg?rlkey=gm89emim3cbylyqfry1hl6vtg&dl=0)https://www.dropbox.com/scl/fi/zbt8fpjblpw2wn3mg2flv/Mockup-Example-Project-2-Contact.jpg?rlkey=gm89emim3cbylyqfry1hl6vtg&dl=0)

@@ -4,7 +4,7 @@
 # Bike-repair-website
 This website is just using HTML5 and CSS3 to review my knowledge.
 
-# Home pgae
+# Home page
 ![Homepage Mockup](https://i.ibb.co/0stZ283/Mockup-Example-Project-2-Homepage.jpg)
 # Contact Page
 ![Homepage Mockup](https://i.ibb.co/zs5tF0G/Mockup-Example-Project-2-Contact.jpg)
